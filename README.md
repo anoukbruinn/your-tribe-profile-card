@@ -1,2 +1,2 @@
-> Fork deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-
+Dit is de link naar mijn visitekaartje (tot nu toe)
+http://127.0.0.1:5500/index.html
