@@ -1,0 +1,66 @@
+* {
+    box-sizing:border-box;
+    
+  }
+  
+  html {
+    height:100vh;
+  }
+  
+  body {
+    height:100vh;
+    font-family: open sans;
+    display:flex;
+    justify-content:center;
+    color:#10214e;
+    background-image: url('../assets/marble-blauw.jpeg');
+   
+    background-repeat: no-repeat;
+    
+    
+  }
+  
+  article { 
+    border-style: solid;
+    margin-top: 15em;
+    background-color: white;
+    background-image: url('../assets/flower.jpeg');
+    height: 30em;
+    width:20em;
+    text-align: center;
+    margin-bottom: 10 em;
+    font-style: italic;
+    margin-left: 5em;
+    margin-right: 5em;
+    justify-content: center;
+    border-radius: 15px;
+    box-shadow: 0 0 110px 20px rgb(255, 255, 255);
+    border-color:white;
+    float: center;
+     
+    
+  }
+  
+ .intro{ 
+  
+   text-align: center;
+   justify-content: center;
+ 
+   padding-top:2px;
+
+  }
+  
+h1 { 
+  font-size: 20px;
+  
+}
+
+  h2{ 
+    font-size: 14px;
+  }
+  
+  .profielFoto{
+    width: 50%;
+    margin-top: 2em;
+    border-radius: 30%;
+  }
