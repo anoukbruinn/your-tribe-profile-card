@@ -22,6 +22,8 @@ article {
   border-style: solid;
   margin-top: 15em;
   background-color: white;
+  background-image: url('../assets/kat.jpeg');
+  background-position: right;
   height: 30em;
   width:20em;
   text-align: center;
@@ -40,7 +42,7 @@ h1{
 
   text-align: center;
   
-  padding-top:180px;
+  padding: top 175px;
   
 }
 
